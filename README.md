@@ -1,8 +1,8 @@
-<H4>Name:ADHITHYARAM D</H4>
-<H4>Register No:212222230008</H4>
-<H4>Experiment 2</H4>
-<H4>Date:</H4>
-<h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
+<H3>Name:ADHITHYARAM D</H3>
+<H3>Register No:212222230008</H3>
+<H3>Experiment 2</H3>
+<H3>Date:</H3>
+<h1>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
